@@ -29,7 +29,7 @@ For this project, we will utilize a Kaggle dataset that contains comprehensive s
 ## Architecture Diagram
 Below is an architecture diagram that illustrates the overall flow and interaction of the various components within our ETL pipeline. 
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](AWS-ETL-Data-Pipeline-in-Python.png)
 
 
 
