@@ -6,7 +6,7 @@ The primary goal of this project is to develop an ETL pipeline that enables data
 
 You can find the detailed step-by-step guide for this project in the accompanying [Medium article](https://medium.com/@narvekar.amisha/effortlessly-analyze-your-youtube-data-with-aws-a-step-by-step-guide-to-etl-pipeline-using-glue-f98caed05977).
 
-## Project Aim
+## Aim
 
 1. Data Ingestion — Build a mechanism to ingest data from different sources
 2. ETL System — We are getting data in raw format, transforming this data into the proper format
